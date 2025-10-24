@@ -1,0 +1,14 @@
+EstoqueAPI/
+├─ Controllers/
+│  └─ ProductsController.cs
+├─ Data/
+│  └─ AppDbContext.cs
+├─ DTOs/
+│  ├─ ProductCreateDto.cs
+│  └─ ProductUpdateDto.cs
+├─ Models/
+│  └─ Product.cs
+├─ requests.http
+├─ Program.cs
+├─ EstoqueAPI.csproj
+└─ README.md
